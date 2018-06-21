@@ -20,7 +20,7 @@
                             <div class="table-row">
                                 <div class="form-post" style="float: none;">
                                     <label> Name </label>
-                                    <input class="form-control" placeholder="" name="name" type="text" required>
+                                    <input class="form-control" placeholder="" name="name" type="text">
 
                                     <label>Email </label>
                                     <input class="form-control" placeholder="" name="email" type="email" required> 
